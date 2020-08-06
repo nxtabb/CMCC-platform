@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CMCC-platform:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/CMCC_platform_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="CMCC-platform/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CMCC-platform" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
